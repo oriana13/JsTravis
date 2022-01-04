@@ -9,7 +9,7 @@ const hippo = new Hippopotamus({
 const hippo2 = new Hippopotamus({
     name: "Doria",
     weight: 1800,
-    tusksSize: 55
+    tusksSize: 50
 });
 
 const winner = hippo.fight(hippo2);
